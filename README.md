@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.freecodecamp.org/news/content/images/size/w2000/2020/03/illustration_cover.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahmoud Abu-Attiya</h1>
 - 📫 Email **mahmoud.abuattiya106@gmail.com**
 
