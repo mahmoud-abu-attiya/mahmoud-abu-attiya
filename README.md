@@ -1,4 +1,3 @@
-[![MasterHead](https://i.postimg.cc/bvGnLR57/undraw-coding-re-iv62.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mahmoud Abu-Attiya</h1>
 -  Email mahmoud.abuattiya106@gmail.com
 -  <br/>
