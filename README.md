@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Abu-Attiya</h1>
--  Email mahmoud.abuattiya106@gmail.com
+-  Email: mahmoud.abuattiya106@gmail.com
 -  <br/>
--  Phone & Whatsapp +201017166378
+-  Phone & Whatsapp: +201017166378
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
