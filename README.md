@@ -18,7 +18,7 @@
 Frontend developer passionate about building **clean, fast, and accessible** web experiences.
 I focus on turning designs into polished, pixel-perfect interfaces using modern JavaScript and component-based architecture.
 
-> Currently exploring **performance optimization** in Next.js and building production-ready projects to grow my portfolio.
+> Currently exploring **performance optimization** in Software apps and building production-ready projects.
 
 ---
 
